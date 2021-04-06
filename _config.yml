@@ -14,11 +14,11 @@ author: Marilina Santero
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://www.argentina.gob.ar/"
+  Blog: 
+  About:
+  - Me: "aboutme"
+  - My home: "https://www.argentina.gob.ar/"
+   Resources:
 
 # --- Logo --- #
 
