@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: OR: Why you'd want to go on a date with me
 ---
 
 My name is Marilina. I have the following qualities:
