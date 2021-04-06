@@ -18,13 +18,13 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://www.argentina.gob.ar/"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "C:\Users\maril\Downloads\img.jpeg"
+avatar: "/maril/Downloads/img.jpeg"
 
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
@@ -66,20 +66,25 @@ google-scholar: Marilina Santero
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
+  email: true
+  github: true
+  linkedin: true
+  ORCID: true
+  google-scholar: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "MarilinaSantero.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -91,7 +96,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "public health, epidemiology, chronic diseases, cancer"
 
 # --- Colours / background image --- #
 
