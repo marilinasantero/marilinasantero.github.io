@@ -48,11 +48,11 @@ social-network-links:
   #youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-linkedin: Marilina Santero
+  linkedin: Marilina Santero
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-instagram: mariluna.sant
+  instagram: mariluna.sant
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -61,8 +61,8 @@ instagram: mariluna.sant
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-ORCID: 0000-0001-5371-0979
-google-scholar: Marilina Santero
+  ORCID: 0000-0001-5371-0979
+  google-scholar: Marilina Santero
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
