@@ -10,7 +10,6 @@ subtitle: OR: Why you'd want to go on a date with me
 - 💞️ I’m looking to collaborate on systematic reviews, research publications and incorporation into evidence-based guidance.
 - 📫 How to reach me: marilinasantero@gmail.com
 
-What else do you need?
 
 ### My story
 
