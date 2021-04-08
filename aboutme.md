@@ -1,8 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: OR: Why you'd want to go on a date with me
+subtitle: Why you'd want to go on a date with me
 ---
+
 My name is Marilina.
 
 - 👋 Hi, I’m from Argentina living in Spain.
