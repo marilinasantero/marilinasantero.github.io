@@ -10,4 +10,4 @@ My name is Marilina.
 * 👀 My passion are public health research and epidemiology.
 * 🌱 I’m currently learning about the use and adequacy of chemotherapy at the end of life context.
 * 💞️ Looking to collaborate on systematic reviews, research publications and incorporation into evidence-based guidance.
-* 💚 I´m Feminist advocating social, political, economic, and intellectual equality.
+* 💚 Feminist advocating social, political, economic, and intellectual equality.
