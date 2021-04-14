@@ -3,7 +3,8 @@ layout: page
 title: Contact
 ---
 
-You can email me or find me on Twitter if you want to get in touch. As I said, I love meeting new people so don't hesitate to send a message!
+You can email me or find me on Twitter if you want to get in touch. 
+I love meeting new people so don't hesitate to send a message!
 
 My fulltime job is consulting work in R and Shiny, so feel free to get in touch if you want to discuss potential projects, your Shiny needs, or need any paid help.
 
