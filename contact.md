@@ -10,11 +10,5 @@ My fulltime job is public health researching, so feel free to get in touch if yo
 
 If you'd like to set up a meeting with me, click [here](https://calendly.com/marilinasantero/meeting) to schedule a meeting based on your availability.
 
-You can also send me a quick message using the form below:
-
-Email
-Name
-Message
-
 If you'd like to get in touch and are very old-school, you can send a letter to:  
 C/Sant Antoni Maria Claret, 08025, Barcelona, Spain.
