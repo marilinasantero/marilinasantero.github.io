@@ -16,5 +16,5 @@ Email
 Name
 Message
 
-If you'd like to get in touch and are very old-school, you can send a letter to:
+If you'd like to get in touch and are very old-school, you can send a letter to:  
 C/Sant Antoni Maria Claret, 08025, Barcelona, Spain.
