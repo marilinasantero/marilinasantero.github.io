@@ -2,7 +2,7 @@
 layout: post
 title: Starting a PhD During a Pandemic
 subtitle: Program abroad & coronavirus crisis
-gh-repo: daattali/beautiful-jekyll
+gh-repo: marilinasantero/marilinasantero.github.io
 gh-badge: [star, fork, follow]
 tags: [covid, phd]
 comments: true
