@@ -8,7 +8,7 @@ I love meeting new people so don't hesitate to send a message!
 
 My fulltime job is public health researching, so feel free to get in touch if you want to discuss potential projects, your ideas, or need any help.
 
-If you'd like to set up a meeting with me, click here to schedule a meeting based on your availability.
+If you'd like to set up a meeting with me, click [here](https://calendly.com/marilinasantero/meeting) to schedule a meeting based on your availability.
 
 You can also send me a quick message using the form below:
 
