@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-You can email me or find me on [Twitter](https://twitter.com/SanteroMarilina) if you want to get in touch.   
+You can [email](mailto:marilinasantero@gmail.com) me or find me on [Twitter](https://twitter.com/SanteroMarilina) if you want to get in touch.   
 I love meeting new people so don't hesitate to send a message!
 
 My fulltime job is public health researching, so feel free to get in touch if you want to discuss potential projects, your ideas, or need any help.
