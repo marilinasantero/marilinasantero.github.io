@@ -4,7 +4,7 @@ title: Contact
 ---
 
 You can email me or find me on Twitter if you want to get in touch.   
-<a href="mailto:marilinasantero@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:marilinasantero@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 I love meeting new people so don't hesitate to send a message!
 
 My fulltime job is public health researching, so feel free to get in touch if you want to discuss potential projects, your ideas, or need any help.
