@@ -15,7 +15,7 @@ author: Marilina Santero
 
 navbar-links:
   About Me: "aboutme"
-  CV: "/docs/S_Marilina_2021_resume.pdf"
+  CV: /docs/S_Marilina_2021_resume.pdf
   Contact: "contact"
   My home: "https://argentina.gob.ar"
 
