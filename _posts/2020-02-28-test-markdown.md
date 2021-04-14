@@ -1,75 +1,19 @@
 ---
 layout: post
 title: Starting a PhD During a Pandemic
-subtitle: PhD program abroad & coronavirus crisis
+subtitle: Program abroad & coronavirus crisis
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+I`m still not sure how to start my blog. “What should my first blog post be about?” There’s no good answers.
+Instead of writing an introductory post, I decided writing something on the subject of the moment (and the last year, and probably the next...). 
+Yes! COVID, crisis, and sudden change of plans.  
 
-**Here is some bold text**
+The pandemic hit on us in several ways, and it had a major impact on international students. I come from Argentina, and with great enthusiasm I decided to move to Barcelona last year. I joined the doctoral program on Monday, March 2, 2020. The lockdown was declared on March 15 in Spain.
 
-## Here is a secondary heading
+With the introduction of measures many concerns have arisen. Maintaining a good mental and physical health, caring for the beloved ones in my home-country, adapting to new ways of working remotely are just few examples of the new challenges. 
 
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-
-It can also be centered!
-
-![Life Ambition](http://phdcomics.com/comics/archive/phd050508s.gif)
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+Consider my first post as an excuse to launch the blog. It will quickly get pushed down my list as I publish more. It is a promise. “Good enough” is totally fine.
