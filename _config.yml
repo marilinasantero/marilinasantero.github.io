@@ -100,7 +100,7 @@ keywords: "public health, epidemiology, chronic diseases, cancer"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#800080"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
@@ -114,9 +114,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/img1.jpeg"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "/assets/img/img1.jpeg"
+#page-img: "/assets/img/img1.jpeg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
