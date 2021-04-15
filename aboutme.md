@@ -2,6 +2,7 @@
 layout: page
 title: Who am I?
 subtitle: OR Why you'd want to go on a date with me
+cover-img: "/assets/img/img1.jpeg"
 ---
 
 My name is Marilina.
