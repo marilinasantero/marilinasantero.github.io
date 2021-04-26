@@ -161,7 +161,7 @@ navbar-img: "/assets/img/img2.jpeg"
 # (3) Install the Utterances app in your repository https://github.com/apps/utterances
 # See more details about the parameters below at https://utteranc.es/
 utterances:
-repository: # "marilinasantero/marilinasantero.github.io"
+repository: # "marilinasantero/repo"
 issue-term: title   # Mapping between blog posts and GitHub issues
 theme: github-light # Utterances theme
 label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
