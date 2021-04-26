@@ -151,7 +151,7 @@ navbar-img: "/assets/img/img2.jpeg"
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-disqus: "Marilina Santero"
+disqus: "marilina_santero"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
 #fb_comment_id: ""
