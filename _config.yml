@@ -151,10 +151,10 @@ navbar-img: "/assets/img/img2.jpeg"
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-#disqus: ""
+disqus: "Marilina Santero"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
-fb_comment_id: "@marilina_santero"
+#fb_comment_id: ""
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
