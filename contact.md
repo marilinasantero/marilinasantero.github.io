@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-sutitle: Say hello. 
+subtitle: Say hello. 
 ---
 
 You can [email](mailto:marilinasantero@gmail.com) me or find me on [Twitter](https://twitter.com/SanteroMarilina) if you want to get in touch.   
